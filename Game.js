@@ -7,6 +7,10 @@ $(document).on("keypress", function () {
   nextSequence();
 });
 
+$("#level-title").click(function () {
+  nextSequence();
+});
+
 function nextSequence() {
   $("#level-title").text("level " + level);
   level++;
