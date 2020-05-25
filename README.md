@@ -1,2 +1,2 @@
 # Simongame
-#https://aeprogress.github.io/Simongame/
+https://aeprogress.github.io/Simongame/
